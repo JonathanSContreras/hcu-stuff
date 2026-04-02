@@ -17,7 +17,7 @@ The custom image includes a preconfigured desktop background, starter files for 
 | `Static IP Setup.pdf` | How to set static IPs on the Pi (wired) and Windows PC for reliable VNC access |
 
 > **Image files are not stored in this repo** (too large for GitHub). Download the latest image from the shared drive:
-> **[INSERT LINK HERE]** — filenames follow the format `HCU_COSC1351_MMDDYY.img.xz` (e.g. `HCU_COSC1351_071325.img.xz` = July 13, 2025).
+> **[HCU Images](https://1drv.ms/f/c/c4556d4a89ead8b0/IgBZfWznSoY5S5nOYKABLC5nAZliolEe56E34YAV023t80M?e=cghPRV)** — filenames follow the format `HCU_COSC1351_MMDDYY.img.xz` (e.g. `HCU_COSC1351_071325.img.xz` = July 13, 2025).
 
 ---
 
